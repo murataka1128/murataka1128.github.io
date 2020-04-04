@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(uruhwu.jpg);
   background-size: contain;
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -39,6 +39,7 @@ a {
 
 .btn-wrapper {
   text-align: center;
+  display:none;
 }
 
 .btn-wrapper p {
@@ -151,7 +152,7 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 13px;
-  color: #b3aeb5;
+  color: black;
 }
 
 .heading h3 {
