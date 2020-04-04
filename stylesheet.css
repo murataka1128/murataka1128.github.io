@@ -117,7 +117,8 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+  background-image: url(Image_77219e9 (2).jpg);
+  background-size: contain;
   text-align: center;
 }
 
@@ -163,6 +164,8 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
+  background-image: url(Image_77219e9 (2).jpg);
+  background-size: contain;
 }
 
 .message {
